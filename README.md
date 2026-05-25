@@ -46,3 +46,4 @@ To counter the vulnerabilities exposed in Phase 1, a secondary simulation was ex
 The deployment of k-anonymity successfully neutralized all high-confidence re-identification vectors established during the initial linkage attack. 
 * *Example:* The profile of *Ioanna Christou*, which was fully compromised in Phase 1, was successfully obscured into a generalized, secure multi-patient cohort of females within the `[50-67]` age group, preventing individual privacy leakage.
 
+"Note: The dataset files (VotersPublic.xlsx, PatientsPublic.xlsx, etc.) are proprietary academic data provided by the University and are not included in this public repository for data privacy reasons."
