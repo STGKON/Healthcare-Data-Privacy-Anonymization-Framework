@@ -19,3 +19,5 @@ The project demonstrates the vulnerabilities of "de-identified" healthcare datab
 * **Method:** Applied the same linkage attack framework against an anonymized dataset (`PatientsPublicKAnon.xlsx`) utilizing data generalization (age brackets like `[50-67]`) and suppression (ZIP code masking).
 * **Result:** **Successfully blocked all high-confidence matches.** Patients were structurally obscured inside equivalence classes where each record is indistinguishable from at least $k-1$ others, while $l$-diversity prevented homogeneity attacks.
 
+
+\"Note: The dataset files (VotersPublic.xlsx, PatientsPublic.xlsx, etc.) are proprietary academic data provided by the University and are not included in this public repository for data privacy reasons.
