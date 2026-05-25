@@ -2,10 +2,6 @@
 Evaluating Linkage Attacks, k-Anonymity, and l-Diversity
 
 
-
-# Healthcare Data Privacy & Anonymization Framework
-## Evaluating Linkage Attacks, k-Anonymity, and l-Diversity
-
 This repository contains a specialized data privacy and security analysis framework.
 The project demonstrates the vulnerabilities of "de-identified" healthcare databases to malicious re-identification methods and evaluates structural mitigation strategies.
 
